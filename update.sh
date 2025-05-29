@@ -4,8 +4,12 @@ gkey=$1
 year=$2
 
 if [ -z "$gkey" ]; then
-  echo "Error: Google API key is required."
-  exit 1
+  if [ -z "$GOOGLE_CALENDAR_API_KEY" ]; then
+    echo "Error: Google API key is required."
+    exit 1
+  fi
+  
+  gkey=$GOOGLE_CALENDAR_API_KEY
 fi
 
 git clone git@github.com:chay22/liburday.git dist
