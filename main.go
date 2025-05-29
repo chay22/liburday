@@ -149,7 +149,7 @@ func main() {
 	if gkey == "" {
 		gkey = os.Getenv("GOOGLE_CALENDAR_API_KEY")
 		if gkey == "" {
-			log.Fatal("API key is required (use --key or set GOOGLE_CALENDAR_API_KEY)")
+			log.Fatal("API key is required (use --gkey or set GOOGLE_CALENDAR_API_KEY)")
 			return
 		}
 	}
