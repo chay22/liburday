@@ -1,0 +1,97 @@
+[
+  {
+    "date": "2016-01-01",
+    "name": "Tahun Baru 2016 Masehi",
+    "is_national": 1
+  },
+  {
+    "date": "2016-02-08",
+    "name": "Tahun Baru Imlek 2567 Kongzili",
+    "is_national": 1
+  },
+  {
+    "date": "2016-03-09",
+    "name": "Hari Raya Nyepi Tahun Baru Saka 1938",
+    "is_national": 1
+  },
+  {
+    "date": "2016-03-25",
+    "name": "Wafat Isa Al-Masih",
+    "is_national": 1
+  },
+  {
+    "date": "2016-05-01",
+    "name": "Hari Buruh",
+    "is_national": 1
+  },
+  {
+    "date": "2016-05-05",
+    "name": "Kenaikan Yesus Kristus",
+    "is_national": 1
+  },
+  {
+    "date": "2016-05-06",
+    "name": "Isra' Mi'raj Nabi Muhammad SAW",
+    "is_national": 1
+  },
+  {
+    "date": "2016-05-22",
+    "name": "Hari Raya Waisak 2560",
+    "is_national": 1
+  },
+  {
+    "date": "2016-07-04",
+    "name": "Cuti Bersama Idul Fitri",
+    "is_national": 1
+  },
+  {
+    "date": "2016-07-05",
+    "name": "Cuti Bersama Idul Fitri",
+    "is_national": 1
+  },
+  {
+    "date": "2016-07-06",
+    "name": "Hari Raya Idul Fitri 1437 H",
+    "is_national": 1
+  },
+  {
+    "date": "2016-07-07",
+    "name": "Hari Raya Idul Fitri 1437 H",
+    "is_national": 1
+  },
+  {
+    "date": "2016-07-08",
+    "name": "Cuti Bersama Idul Fitri",
+    "is_national": 1
+  },
+  {
+    "date": "2016-08-17",
+    "name": "Hari Kemerdekaan Republik Indonesia",
+    "is_national": 1
+  },
+  {
+    "date": "2016-09-12",
+    "name": "Hari Raya Idul Adha 1437 H",
+    "is_national": 1
+  },
+  {
+    "date": "2016-10-02",
+    "name": "Tahun Baru Islam 1438 H",
+    "is_national": 1
+  },
+  {
+    "date": "2016-12-12",
+    "name": "Maulid Nabi Muhammad SAW",
+    "is_national": 1
+  },
+  {
+    "date": "2016-12-25",
+    "name": "Hari Raya Natal",
+    "is_national": 1
+  },
+  {
+    "date": "2016-12-26",
+    "name": "Cuti Bersama Natal",
+    "is_national": 1
+  }
+]

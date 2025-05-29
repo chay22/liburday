@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2011-01-01",
+    "name": "Tahun Baru 2011",
+    "is_national": 1
+  },
+  {
+    "date": "2011-02-03",
+    "name": "Tahun Baru Imlek 2562",
+    "is_national": 1
+  },
+  {
+    "date": "2011-02-15",
+    "name": "Maulid Nabi Muhammad SAW",
+    "is_national": 1
+  },
+  {
+    "date": "2011-03-05",
+    "name": "Hari Raya Nyepi Tahun Baru Saka 1933",
+    "is_national": 1
+  },
+  {
+    "date": "2011-04-22",
+    "name": "Wafat Yesus Kristus",
+    "is_national": 1
+  },
+  {
+    "date": "2011-05-17",
+    "name": "Hari Raya Waisak 2555",
+    "is_national": 1
+  },
+  {
+    "date": "2011-06-02",
+    "name": "Kenaikan Yesus Kristus",
+    "is_national": 1
+  },
+  {
+    "date": "2011-06-29",
+    "name": "Isra' Mi'raj Nabi Muhammad SAW",
+    "is_national": 1
+  },
+  {
+    "date": "2011-08-17",
+    "name": "Hari Kemerdekaan Republik Indonesia",
+    "is_national": 1
+  },
+  {
+    "date": "2011-08-29",
+    "name": "Cuti Bersama Idul Fitri 1432 H",
+    "is_national": 1
+  },
+  {
+    "date": "2011-08-30",
+    "name": "Hari Raya Idul Fitri 1432 H",
+    "is_national": 1
+  },
+  {
+    "date": "2011-08-31",
+    "name": "Hari Raya Idul Fitri 1432 H",
+    "is_national": 1
+  },
+  {
+    "date": "2011-09-01",
+    "name": "Cuti Bersama Idul Fitri 1432 H",
+    "is_national": 1
+  },
+  {
+    "date": "2011-09-02",
+    "name": "Cuti Bersama Idul Fitri 1432 H",
+    "is_national": 1
+  },
+  {
+    "date": "2011-11-06",
+    "name": "Hari Raya Idul Adha 1432 H",
+    "is_national": 1
+  },
+  {
+    "date": "2011-11-27",
+    "name": "Tahun Baru 1433 H",
+    "is_national": 1
+  },
+  {
+    "date": "2011-12-25",
+    "name": "Hari Raya Natal",
+    "is_national": 1
+  },
+  {
+    "date": "2011-12-26",
+    "name": "Cuti Bersama Natal",
+    "is_national": 1
+  }
+]

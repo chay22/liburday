@@ -1,0 +1,117 @@
+[
+  {
+    "date": "2017-01-01",
+    "name": "Tahun Baru 2017 Masehi",
+    "is_national": 1
+  },
+  {
+    "date": "2017-01-02",
+    "name": "Cuti bersama tahun baru",
+    "is_national": 1
+  },
+  {
+    "date": "2017-01-28",
+    "name": "Tahun Baru Imlek 2568 Kongzili",
+    "is_national": 1
+  },
+  {
+    "date": "2017-02-15",
+    "name": "Pilkada Serentak 2017",
+    "is_national": 1
+  },
+  {
+    "date": "2017-03-28",
+    "name": "Hari Raya Nyepi Tahun Baru Saka 1939",
+    "is_national": 1
+  },
+  {
+    "date": "2017-04-14",
+    "name": "Wafat Isa Al-Masih",
+    "is_national": 1
+  },
+  {
+    "date": "2017-04-24",
+    "name": "Isra' Mi'raj Nabi Muhammad SAW",
+    "is_national": 1
+  },
+  {
+    "date": "2017-05-01",
+    "name": "Hari Buruh Internasional",
+    "is_national": 1
+  },
+  {
+    "date": "2017-05-11",
+    "name": "Hari Raya Waisak 2561",
+    "is_national": 1
+  },
+  {
+    "date": "2017-05-25",
+    "name": "Kenaikan Isa Al Masih",
+    "is_national": 1
+  },
+  {
+    "date": "2017-06-01",
+    "name": "Hari Lahir Pancasila",
+    "is_national": 1
+  },
+  {
+    "date": "2017-06-25",
+    "name": "Hari Raya Idul Fitri 1438 H",
+    "is_national": 1
+  },
+  {
+    "date": "2017-06-26",
+    "name": "Hari Raya Idul Fitri 1438 H",
+    "is_national": 1
+  },
+  {
+    "date": "2017-06-27",
+    "name": "Cuti bersama Idul Fitri",
+    "is_national": 1
+  },
+  {
+    "date": "2017-06-28",
+    "name": "Cuti bersama Idul Fitri",
+    "is_national": 1
+  },
+  {
+    "date": "2017-06-29",
+    "name": "Cuti bersama Idul Fitri",
+    "is_national": 1
+  },
+  {
+    "date": "2017-06-30",
+    "name": "Cuti bersama Idul Fitri",
+    "is_national": 1
+  },
+  {
+    "date": "2017-08-17",
+    "name": "Hari Kemerdekaan RI ke 72",
+    "is_national": 1
+  },
+  {
+    "date": "2017-09-01",
+    "name": "Hari Raya Idul Adha 1438 H",
+    "is_national": 1
+  },
+  {
+    "date": "2017-09-21",
+    "name": "Tahun Baru Islam 1439 H",
+    "is_national": 1
+  },
+  {
+    "date": "2017-12-01",
+    "name": "Maulid Nabi Muhammad SAW",
+    "is_national": 1
+  },
+  {
+    "date": "2017-12-25",
+    "name": "Hari Raya  Natal",
+    "is_national": 1
+  },
+  {
+    "date": "2017-12-26",
+    "name": "Cuti bersama Natal",
+    "is_national": 1
+  }
+]

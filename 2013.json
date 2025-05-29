@@ -1,0 +1,97 @@
+[
+  {
+    "date": "2013-01-01",
+    "name": "Tahun Baru 2013",
+    "is_national": 1
+  },
+  {
+    "date": "2013-01-24",
+    "name": "Maulid Nabi Muhammad SAW",
+    "is_national": 1
+  },
+  {
+    "date": "2013-02-10",
+    "name": "Tahun Baru Imlek 2564",
+    "is_national": 1
+  },
+  {
+    "date": "2013-03-12",
+    "name": "Hari Raya Nyepi Tahun Baru Saka 1935",
+    "is_national": 1
+  },
+  {
+    "date": "2013-03-29",
+    "name": "Wafat Isa Al-Masih",
+    "is_national": 1
+  },
+  {
+    "date": "2013-05-09",
+    "name": "Kenaikan Isa Al-Masih",
+    "is_national": 1
+  },
+  {
+    "date": "2013-05-25",
+    "name": "Hari Raya Waisak 2557",
+    "is_national": 1
+  },
+  {
+    "date": "2013-06-06",
+    "name": "Isra' Mi'raj Nabi Muhammad SAW",
+    "is_national": 1
+  },
+  {
+    "date": "2013-08-05",
+    "name": "Cuti Bersama Idul Fitri 1434 H",
+    "is_national": 1
+  },
+  {
+    "date": "2013-08-06",
+    "name": "Cuti Bersama Idul Fitri 1434 H",
+    "is_national": 1
+  },
+  {
+    "date": "2013-08-07",
+    "name": "Cuti Bersama Idul Fitri 1434 H",
+    "is_national": 1
+  },
+  {
+    "date": "2013-08-08",
+    "name": "Hari Raya Idul Fitri 1434 H",
+    "is_national": 1
+  },
+  {
+    "date": "2013-08-09",
+    "name": "Hari Raya Idul Fitri 1434 H",
+    "is_national": 1
+  },
+  {
+    "date": "2013-08-17",
+    "name": "Hari Kemerdekaan Republik Indonesia",
+    "is_national": 1
+  },
+  {
+    "date": "2013-10-14",
+    "name": "Cuti Bersama Idul Adha 1434 H",
+    "is_national": 1
+  },
+  {
+    "date": "2013-10-15",
+    "name": "Hari Raya Idul Adha 1434 H",
+    "is_national": 1
+  },
+  {
+    "date": "2013-11-05",
+    "name": "Tahun Baru 1435 H",
+    "is_national": 1
+  },
+  {
+    "date": "2013-12-25",
+    "name": "Hari Raya Natal",
+    "is_national": 1
+  },
+  {
+    "date": "2013-12-26",
+    "name": "Cuti Bersama Natal",
+    "is_national": 1
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "date": "2019-01-01",
+    "name": "Tahun Baru 2019 Masehi",
+    "is_national": 1
+  },
+  {
+    "date": "2019-02-05",
+    "name": "Tahun Baru Imlek 2570 Kongzili",
+    "is_national": 1
+  },
+  {
+    "date": "2019-03-07",
+    "name": "Hari Raya Nyepi Tahun Baru Saka 1941",
+    "is_national": 1
+  },
+  {
+    "date": "2019-04-03",
+    "name": "Isra Mi'raj Nabi Muhammad SAW",
+    "is_national": 1
+  },
+  {
+    "date": "2019-04-19",
+    "name": "Wafat Isa Al Masih",
+    "is_national": 1
+  },
+  {
+    "date": "2019-05-01",
+    "name": "Hari Buruh Internasional",
+    "is_national": 1
+  },
+  {
+    "date": "2019-05-19",
+    "name": "Hari Raya Waisak 2563",
+    "is_national": 1
+  },
+  {
+    "date": "2019-05-30",
+    "name": "Kenaikan Isa Al Masih",
+    "is_national": 1
+  },
+  {
+    "date": "2019-06-01",
+    "name": "Hari Lahir Pancasila",
+    "is_national": 1
+  },
+  {
+    "date": "2019-06-03",
+    "name": "Cuti Bersama Idul Fitri 1440 Hijriyah",
+    "is_national": 1
+  },
+  {
+    "date": "2019-06-04",
+    "name": "Cuti Bersama Idul Fitri 1440 Hijriyah",
+    "is_national": 1
+  },
+  {
+    "date": "2019-06-05",
+    "name": "Hari Raya Idul Fitri 1440 Hijriyah",
+    "is_national": 1
+  },
+  {
+    "date": "2019-06-06",
+    "name": "Hari Raya Idul Fitri 1440 Hijriyah",
+    "is_national": 1
+  },
+  {
+    "date": "2019-06-07",
+    "name": "Cuti Bersama Idul Fitri 1440 Hijriyah",
+    "is_national": 1
+  },
+  {
+    "date": "2019-08-11",
+    "name": "Hari Raya Idul Adha 1440 Hijriyah",
+    "is_national": 1
+  },
+  {
+    "date": "2019-08-17",
+    "name": "Hari Kemerdekaan RI ke 74",
+    "is_national": 1
+  },
+  {
+    "date": "2019-09-01",
+    "name": "Tahun Baru Islam 1441 Hijriyah",
+    "is_national": 1
+  },
+  {
+    "date": "2019-11-09",
+    "name": "Maulid Nabi Muhammad SAW",
+    "is_national": 1
+  },
+  {
+    "date": "2019-12-24",
+    "name": "Cuti Bersama Hari Raya Natal",
+    "is_national": 1
+  },
+  {
+    "date": "2019-12-25",
+    "name": "Hari Raya Natal",
+    "is_national": 1
+  }
+]
