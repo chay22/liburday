@@ -21,7 +21,7 @@
   },
   {
     "date": "2025-03-01",
-    "name": "Ramadan Start",
+    "name": "1 Ramadan",
     "is_national": 0
   },
   {
@@ -122,6 +122,11 @@
   {
     "date": "2025-08-17",
     "name": "Hari Kemerdekaan Republik Indonesia ke 80",
+    "is_national": 1
+  },
+  {
+    "date": "2025-08-18",
+    "name": "Hari Proklamasi Kemerdekaan R.I. observed",
     "is_national": 1
   },
   {
