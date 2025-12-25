@@ -1,0 +1,137 @@
+[
+  {
+    "date": "2026-01-01",
+    "name": "Hari Tahun Baru",
+    "is_national": 1
+  },
+  {
+    "date": "2026-01-16",
+    "name": "Isra Mikraj Nabi Muhammad (belum pasti)",
+    "is_national": 1
+  },
+  {
+    "date": "2026-02-16",
+    "name": "Cuti Bersama Tahun Baru Imlek",
+    "is_national": 1
+  },
+  {
+    "date": "2026-02-17",
+    "name": "Tahun Baru Imlek",
+    "is_national": 1
+  },
+  {
+    "date": "2026-02-20",
+    "name": "1 Ramadan (belum pasti)",
+    "is_national": 0
+  },
+  {
+    "date": "2026-03-18",
+    "name": "Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka)",
+    "is_national": 1
+  },
+  {
+    "date": "2026-03-19",
+    "name": "Hari Suci Nyepi (Tahun Baru Saka)",
+    "is_national": 1
+  },
+  {
+    "date": "2026-03-20",
+    "name": "Cuti Bersama Idul Fitri",
+    "is_national": 1
+  },
+  {
+    "date": "2026-03-21",
+    "name": "Hari Idul Fitri (belum pasti)",
+    "is_national": 1
+  },
+  {
+    "date": "2026-03-22",
+    "name": "Hari Idul Fitri (belum pasti)",
+    "is_national": 1
+  },
+  {
+    "date": "2026-03-23",
+    "name": "Cuti Bersama Idul Fitri",
+    "is_national": 1
+  },
+  {
+    "date": "2026-03-24",
+    "name": "Cuti Bersama Idul Fitri",
+    "is_national": 1
+  },
+  {
+    "date": "2026-04-03",
+    "name": "Wafat Isa Almasih",
+    "is_national": 1
+  },
+  {
+    "date": "2026-04-05",
+    "name": "Hari Paskah",
+    "is_national": 1
+  },
+  {
+    "date": "2026-05-01",
+    "name": "Hari Buruh Internasional / Pekerja",
+    "is_national": 1
+  },
+  {
+    "date": "2026-05-14",
+    "name": "Kenaikan Isa Al Masih",
+    "is_national": 1
+  },
+  {
+    "date": "2026-05-15",
+    "name": "Cuti Bersama Kenaikan Isa Al Masih",
+    "is_national": 1
+  },
+  {
+    "date": "2026-05-27",
+    "name": "Idul Adha (Lebaran Haji) (belum pasti)",
+    "is_national": 1
+  },
+  {
+    "date": "2026-05-28",
+    "name": "Idul Adha (Lebaran Haji)",
+    "is_national": 1
+  },
+  {
+    "date": "2026-05-31",
+    "name": "Hari Raya Waisak (belum pasti)",
+    "is_national": 1
+  },
+  {
+    "date": "2026-06-01",
+    "name": "Hari Lahir Pancasila",
+    "is_national": 1
+  },
+  {
+    "date": "2026-06-16",
+    "name": "Satu Muharam / Tahun Baru Hijriah (belum pasti)",
+    "is_national": 1
+  },
+  {
+    "date": "2026-08-17",
+    "name": "Hari Proklamasi Kemerdekaan R.I.",
+    "is_national": 1
+  },
+  {
+    "date": "2026-08-25",
+    "name": "Maulid Nabi Muhammad (belum pasti)",
+    "is_national": 1
+  },
+  {
+    "date": "2026-12-24",
+    "name": "Cuti Bersama Natal (Malam Natal)",
+    "is_national": 1
+  },
+  {
+    "date": "2026-12-25",
+    "name": "Hari Raya Natal",
+    "is_national": 1
+  },
+  {
+    "date": "2026-12-31",
+    "name": "Malam Tahun Baru",
+    "is_national": 0
+  }
+]
