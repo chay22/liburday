@@ -1,22 +1,22 @@
 [
   {
     "date": "2026-01-01",
-    "name": "Hari Tahun Baru",
+    "name": "Tahun Baru Masehi 2026",
     "is_national": 1
   },
   {
     "date": "2026-01-16",
-    "name": "Isra Mikraj Nabi Muhammad (belum pasti)",
+    "name": "Isra Mikraj Nabi Muhammad SAW",
     "is_national": 1
   },
   {
     "date": "2026-02-16",
-    "name": "Cuti Bersama Tahun Baru Imlek",
+    "name": "Cuti Tahun Baru Imlek 2577 Kongzili",
     "is_national": 1
   },
   {
     "date": "2026-02-17",
-    "name": "Tahun Baru Imlek",
+    "name": "Tahun Baru Imlek 2577 Kongzili",
     "is_national": 1
   },
   {
@@ -26,42 +26,42 @@
   },
   {
     "date": "2026-03-18",
-    "name": "Cuti Bersama Hari Suci Nyepi (Tahun Baru Saka 1948)",
+    "name": "Cuti Hari Suci Nyepi Tahun Baru Saka 1948",
     "is_national": 1
   },
   {
     "date": "2026-03-19",
-    "name": "Hari Suci Nyepi (Tahun Baru Saka 1948)",
+    "name": "Hari Suci Nyepi Tahun Baru Saka 1948",
     "is_national": 1
   },
   {
     "date": "2026-03-20",
-    "name": "Cuti Bersama Idul Fitri 1447 Hijriah",
+    "name": "Cuti Hari Raya Idulfitri 1447 Hijriah",
     "is_national": 1
   },
   {
     "date": "2026-03-21",
-    "name": "Hari Idul Fitri 1447 Hijriah",
+    "name": "Hari Raya Idulfitri 1447 Hijriah",
     "is_national": 1
   },
   {
     "date": "2026-03-22",
-    "name": "Hari Idul Fitri 1447 Hijriah",
+    "name": "Hari Raya Idulfitri 1447 Hijriah",
     "is_national": 1
   },
   {
     "date": "2026-03-23",
-    "name": "Cuti Bersama Idul Fitri 1447 Hijriah",
+    "name": "Cuti Hari Raya Idulfitri 1447 Hijriah",
     "is_national": 1
   },
   {
     "date": "2026-03-24",
-    "name": "Cuti Bersama Idul Fitri 1447 Hijriah",
+    "name": "Cuti Hari Raya Idulfitri 1447 Hijriah",
     "is_national": 1
   },
   {
     "date": "2026-04-03",
-    "name": "Wafat Isa Almasih",
+    "name": "Wafat Yesus Kristus",
     "is_national": 1
   },
   {
@@ -71,32 +71,32 @@
   },
   {
     "date": "2026-05-01",
-    "name": "Hari Buruh Internasional / Pekerja",
+    "name": "Hari Buruh Internasional",
     "is_national": 1
   },
   {
     "date": "2026-05-14",
-    "name": "Kenaikan Isa Al Masih",
+    "name": "Kenaikan Yesus Kristus",
     "is_national": 1
   },
   {
     "date": "2026-05-15",
-    "name": "Cuti Bersama Kenaikan Isa Al Masih",
+    "name": "Cuti Kenaikan Yesus Kristus",
     "is_national": 1
   },
   {
     "date": "2026-05-27",
-    "name": "Idul Adha (Lebaran Haji)",
+    "name": "Hari Raya Iduladha 1447 Hijriah",
     "is_national": 1
   },
   {
     "date": "2026-05-28",
-    "name": "Idul Adha (Lebaran Haji)",
+    "name": "Cuti Hari Raya Iduladha 1447 Hijriah",
     "is_national": 1
   },
   {
     "date": "2026-05-31",
-    "name": "Hari Raya Waisak 2570 BE",
+    "name": "Hari Raya Waisak 2570",
     "is_national": 1
   },
   {
@@ -106,22 +106,27 @@
   },
   {
     "date": "2026-06-16",
-    "name": "Satu Muharam / Tahun Baru Hijriah 1448 Hijriah (belum pasti)",
+    "name": "Tahun Baru Islam 1448 Hijriah",
     "is_national": 1
   },
   {
+    "date": "2026-06-17",
+    "name": "Satu Muharam / Tahun Baru Hijriah",
+    "is_national": 0
+  },
+  {
     "date": "2026-08-17",
-    "name": "Hari Proklamasi Kemerdekaan R.I.",
+    "name": "Hari Kemerdekaan Republik Indonesia",
     "is_national": 1
   },
   {
     "date": "2026-08-25",
-    "name": "Maulid Nabi Muhammad (belum pasti)",
+    "name": "Maulid Nabi Muhammad SAW",
     "is_national": 1
   },
   {
     "date": "2026-12-24",
-    "name": "Cuti Bersama Natal (Malam Natal)",
+    "name": "Cuti Hari Raya Natal",
     "is_national": 1
   },
   {
