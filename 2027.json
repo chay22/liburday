@@ -1,0 +1,142 @@
+[
+  {
+    "date": "2027-01-01",
+    "name": "Tahun Baru 2027 Masehi",
+    "is_national": 1
+  },
+  {
+    "date": "2027-01-05",
+    "name": "Isra Mikraj Nabi Muhammad SAW 1448 Hijriah",
+    "is_national": 1
+  },
+  {
+    "date": "2027-02-05",
+    "name": "Cuti Tahun Baru Imlek 2578 Kongzili",
+    "is_national": 1
+  },
+  {
+    "date": "2027-02-06",
+    "name": "Tahun Baru Imlek 2578 Kongzili",
+    "is_national": 1
+  },
+  {
+    "date": "2027-02-09",
+    "name": "1 Ramadan (belum pasti)",
+    "is_national": 0
+  },
+  {
+    "date": "2027-03-08",
+    "name": "Hari Suci Nyepi Tahun Baru Saka 1949",
+    "is_national": 1
+  },
+  {
+    "date": "2027-03-09",
+    "name": "Cuti Hari Raya Idulfitri 1448 Hijriah",
+    "is_national": 1
+  },
+  {
+    "date": "2027-03-10",
+    "name": "Hari Raya Idulfitri 1448 Hijriah",
+    "is_national": 1
+  },
+  {
+    "date": "2027-03-11",
+    "name": "Hari Raya Idulfitri 1448 Hijriah",
+    "is_national": 1
+  },
+  {
+    "date": "2027-03-12",
+    "name": "Cuti Hari Raya Idulfitri 1448 Hijriah",
+    "is_national": 1
+  },
+  {
+    "date": "2027-03-15",
+    "name": "Cuti Hari Raya Idulfitri 1448 Hijriah",
+    "is_national": 1
+  },
+  {
+    "date": "2027-03-25",
+    "name": "Cuti Wafat Yesus Kristus",
+    "is_national": 1
+  },
+  {
+    "date": "2027-03-26",
+    "name": "Wafat Yesus Kristus",
+    "is_national": 1
+  },
+  {
+    "date": "2027-03-28",
+    "name": "Kebangkitan Yesus Kristus (Paskah)",
+    "is_national": 1
+  },
+  {
+    "date": "2027-05-01",
+    "name": "Hari Buruh Internasional",
+    "is_national": 1
+  },
+  {
+    "date": "2027-05-06",
+    "name": "Kenaikan Yesus Kristus",
+    "is_national": 1
+  },
+  {
+    "date": "2027-05-17",
+    "name": "Hari Raya Iduladha 1448 Hijriah",
+    "is_national": 1
+  },
+  {
+    "date": "2027-05-18",
+    "name": "Cuti Hari Raya Iduladha 1448 Hijriah",
+    "is_national": 1
+  },
+  {
+    "date": "2027-05-19",
+    "name": "Cuti Hari Raya Waisak 2571 BE",
+    "is_national": 1
+  },
+  {
+    "date": "2027-05-20",
+    "name": "Hari Raya Waisak 2571 BE",
+    "is_national": 1
+  },
+  {
+    "date": "2027-06-01",
+    "name": "Hari Lahir Pancasila",
+    "is_national": 1
+  },
+  {
+    "date": "2027-06-06",
+    "name": "Tahun Baru Islam 1449 Hijriah",
+    "is_national": 1
+  },
+  {
+    "date": "2027-08-15",
+    "name": "Maulid Nabi Muhammad SAW",
+    "is_national": 1
+  },
+  {
+    "date": "2027-08-17",
+    "name": "Hari Kemerdekaan Republik Indonesia",
+    "is_national": 1
+  },
+  {
+    "date": "2027-12-24",
+    "name": "Cuti Hari Raya Natal",
+    "is_national": 1
+  },
+  {
+    "date": "2027-12-25",
+    "name": "Hari Raya Natal",
+    "is_national": 1
+  },
+  {
+    "date": "2027-12-26",
+    "name": "Isra Mikraj Nabi Muhammad SAW 1449 Hijriah",
+    "is_national": 1
+  },
+  {
+    "date": "2027-12-31",
+    "name": "Malam Tahun Baru",
+    "is_national": 0
+  }
+]
